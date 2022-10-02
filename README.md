@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshitdudhaiya&show_icons=true&locale=en" alt="darshitdudhaiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshitdudhaiya&" alt="darshitdudhaiya" /></p>
+
+[![@darshit's Holopin board](https://holopin.io/api/user/board?user=darshit)](https://holopin.io/@darshit)
+
