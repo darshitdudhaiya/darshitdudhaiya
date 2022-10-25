@@ -37,13 +37,26 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/darshitdudhaiya/github-readme-stats -->
 <p align="left">
+ <a href="https://github.com/darshitdudhaiya/unedit-for-reddit"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+  <a href="https://github.com/darshitdudhaiya/github-readme-youtube-cards"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+  <a href="https://github.com/darshitdudhaiya/latex-gboard-dictionary"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+  <a href="https://github.com/darshitdudhaiya/minimalistic-wallpaper-collection"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
+  <a href="https://github.com/darshitdudhaiya/table2ascii"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  <a href="https://github.com/darshitdudhaiya/doxygen-github-pages-action"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=doxygen-github-pages-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="doxygen-github-pages-action"></a>
+  <a href="https://github.com/darshitdudhaiya/discord-bot-template"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=discord-bot-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord-bot-template"></a>
+  <a href="https://github.com/darshitdudhaiya/dynamic-badge-formatter"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=darshitdudhaiya&repo=dynamic-badge-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dynamic-badge-formatter"></a>
  </p>
 
 ## 📕 Top projects I've contributed to
 
 <!-- Small repo cards https://github.com/darshitdudhaiya/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
- 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/badges/shields"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
+  <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="discord.py"></a>
+  <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="onefetch"></a>
+  <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://darshitdudhaiya-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextcord"></a>
  
 </p>
 
