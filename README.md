@@ -113,15 +113,15 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="darshitdudhaiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshitdudhaiya&show_icons=true&theme=transparent" height="192px"/></a>
   
-</details>
+
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
+
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
@@ -133,7 +133,7 @@
 4. 🗣 Commented on [#41](https://github.com/darshitdudhaiya/unicode-formatter/issues/41) in [darshitdudhaiya/unicode-formatter](https://github.com/darshitdudhaiya/unicode-formatter)
 5. 🗣 Commented on [#40](https://github.com/darshitdudhaiya/unicode-formatter/issues/40) in [darshitdudhaiya/unicode-formatter](https://github.com/darshitdudhaiya/unicode-formatter)
    <!--END_SECTION:activity-->
-   </details>
+   
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
