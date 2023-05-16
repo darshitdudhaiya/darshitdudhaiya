@@ -143,4 +143,4 @@
 
 [![@darshitdudhaiya's Holopin board](https://holopin.me/darshitdudhaiya)](https://holopin.io/@darshitdudhaiya)
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's20% Contributions&hide_border=true"><img alt="darshitdudhaiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's20% Contributions&hide_border=true" /></a>
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true"><img alt="darshitdudhaiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true" /></a>
