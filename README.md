@@ -111,7 +111,7 @@
 
 
 ## 📊 Github stats
-<div style="display:flex;">
+<p style="align:center;">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
   <summary>💻 GitHub Profile Stats</summary>
@@ -135,7 +135,7 @@
 5. 🗣 Commented on [#40](https://github.com/darshitdudhaiya/unicode-formatter/issues/40) in [darshitdudhaiya/unicode-formatter](https://github.com/darshitdudhaiya/unicode-formatter)
    <!--END_SECTION:activity-->
  </div>  
-  </div>
+  </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
