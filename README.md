@@ -111,7 +111,7 @@
 
 
 ## 📊 Github stats
-<div style="display:flex;justify-content:center;">
+<div style="display:flex;">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
   <summary>💻 GitHub Profile Stats</summary>
