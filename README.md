@@ -135,8 +135,6 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![@darshit's Holopin board](https://holopin.me/darshit)](https://holopin.io/@darshit)
-
-[![@darshitdudhaiya's Holopin board](https://holopin.me/darshitdudhaiya)](https://holopin.io/@darshitdudhaiya)
+[![An image of @darshitdudhaiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshitdudhaiya)](https://holopin.io/@darshitdudhaiya)
 
 <a href="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true&theme=github-compact"><img alt="darshitdudhaiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true&theme=github-compact" /></a>
