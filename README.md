@@ -121,6 +121,7 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
   <summary>⚡ Recent GitHub Activity</summary>
+  
   <br/>
 
 <!--START_SECTION:activity-->
@@ -137,4 +138,4 @@
 
 [![An image of @darshitdudhaiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshitdudhaiya)](https://holopin.io/@darshitdudhaiya)
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true&theme=github-compact"><img alt="darshitdudhaiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=darshitdudhaiya&custom_title=Darshit's%20Contributions&hide_border=true&theme=github-compact" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitdudhaiya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
