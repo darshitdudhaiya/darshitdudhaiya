@@ -118,21 +118,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="darshitdudhaiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshitdudhaiya&show_icons=true&theme=transparent" height="192px"/></a>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-  <br/>
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#344](https://github.com/darshitdudhaiya/github-readme-streak-stats/issues/344) in [darshitdudhaiya/github-readme-streak-stats](https://github.com/darshitdudhaiya/github-readme-streak-stats)
-2. ❗️ Closed issue [#344](https://github.com/darshitdudhaiya/github-readme-streak-stats/issues/344) in [darshitdudhaiya/github-readme-streak-stats](https://github.com/darshitdudhaiya/github-readme-streak-stats)
-3. 🗣 Commented on [#344](https://github.com/darshitdudhaiya/github-readme-streak-stats/issues/344) in [darshitdudhaiya/github-readme-streak-stats](https://github.com/darshitdudhaiya/github-readme-streak-stats)
-4. 🗣 Commented on [#41](https://github.com/darshitdudhaiya/unicode-formatter/issues/41) in [darshitdudhaiya/unicode-formatter](https://github.com/darshitdudhaiya/unicode-formatter)
-5. 🗣 Commented on [#40](https://github.com/darshitdudhaiya/unicode-formatter/issues/40) in [darshitdudhaiya/unicode-formatter](https://github.com/darshitdudhaiya/unicode-formatter)
-   <!--END_SECTION:activity--> 
-  </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
