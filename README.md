@@ -118,7 +118,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="darshitdudhaiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshitdudhaiya&show_icons=true&theme=transparent" height="192px"/></a>
 
 
-
+## 🎖️ Holopin Digital Badges
+<p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
