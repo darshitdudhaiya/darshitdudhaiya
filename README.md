@@ -1,78 +1,46 @@
-<h3 align="center">
-  Welcome to Darshit Dudhaiya's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+![@darshit's banner](https://raw.githubusercontent.com/darshitdudhaiya/darshitdudhaiya/refs/heads/main/darshit.png)
 
-<!-- Typing SVG by darshitdudhaiya - https://github.com/darshitdudhaiya -->
-<p align="center">
-  <a href="https://github.com/darshitdudhaiya"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-</p>
+## 👨‍💻 Building fast, scalable web apps with React, Nuxt, and Next.js. Writing clean, maintainable code. Shipping projects in public.
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://discord.gg/883965686911750145" alt="darshit"><img width="32px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/darshitdudhaiya" alt="darshit"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+### 👋 About Me
 
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/darshitdudhaiya -->
-<!-- View counter - https://github.com/darshitdudhaiya -->
-<p align="center">
-  
-  
-  <a href="https://github.com/darshitdudhaiya?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/darshitdudhaiya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/darshitdudhiya?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/darshitdudhaiya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/darshitdudhaiya/?tab=Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=darshitdudhaiya&style=for-the-badge"/></a>
-</p>
+I enjoy creating tools and platforms that simplify web development, sharing practical insights with the developer community, and scaling real-world products like Jetpack-Compose-Snippets, where I help people create and connect with technology effortlessly.
 
 
+## 🚀 Featured Projects
 
-## 🔥 Streak stats
+- 💻 [**Meticha**](https://www.meticha.com/) – Custom platform for a product-based IT company, featuring a sleek UI, scalable architecture, and a fully custom blog module boosting content publishing efficiency by 40%
+- 🌟 [**Compose App of The Year**](https://composeappoftheyear.meticha.com/) – Platform showcasing 25+ innovative Jetpack Compose apps where users can explore, vote, and celebrate mobile development excellence
+- 🌌 [**Gravity Launch Page Template**](https://github.com/meticha/gravity-launch-page-template) – A web landing page with playful physics-based animations powered by Matter.js + Framer Motion.
+- 📚 [**Jetpack Compose Snippets**](https://jetpackcomposesnippets.meticha.com/) – Curated library of 50+ reusable Jetpack Compose UI components and patterns, reducing UI build time by up to 40%
+- 📦 [**Gist-viewer-vue**](https://github.com/darshitdudhaiya/gist-viewer-vue) – NPM package for fetching and displaying GitHub Gists in Vue.js apps, downloaded 1,000+ times
+- ⚡ [**Browser-permissions-helper**](https://github.com/darshitdudhaiya/browser-permissions-helper) – Lightweight TypeScript library simplifying browser permission management, with 1,500+ downloads in 6 months
 
-<!-- GitHub Readme Streak Stats - https://github.com/darshitdudhaiya/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/darshitdudhaiya/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="darshitdudhaiya's streak" src="https://streak-stats.demolab.com/?user=darshitdudhaiya&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+---
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+## 💻 Tech Stack
 
-## 🛠️ My favorite tools
+![React](https://img.shields.io/badge/React-%23039BE5?style=for-the-badge&logo=React&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 👨‍💻 Programming and markup languages
+---
 
-<p>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Adarshitdudhaiya+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
+## 🌐 Socials
 
+<a href="https://twitter.com/darshitdudhaiya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/darshitdudhaiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/18136082/darshit-dudhaiya" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="mailto:darshit201work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+---
 
-
-
-
-
+![GitHub Views](https://komarev.com/ghpvc/?username=darshitdudhaiya&color=FAC151)
 
 
 ## 📊 Github stats
@@ -91,4 +59,3 @@
 
 [![An image of @darshitdudhaiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshitdudhaiya)](https://holopin.io/@darshitdudhaiya)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitdudhaiya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
